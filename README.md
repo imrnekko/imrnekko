@@ -33,8 +33,8 @@ Table below here are my tech stack for web development :
     <td></td>
   </tr>
   <tr>
+    <td>JQuery</td>
     <td>Java</td>
-    <td></td>
     <td></td>
     <td></td>
   </tr>
