@@ -6,21 +6,37 @@
 <!---- 💞️ I’m looking to collaborate on ...--->
 - 📫 How to reach me just contact me by email : imrnsuhaimi@gmail.com
 <br>
+Table below here are my tech stack for web development : 
 <table>
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th>Frontend</th>
+    <th>Backend</th>
+    <th>Framework</th>
+    <th>Server-Related</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td>HTML</td>
+    <td>PHP</td>
+    <td>Laravel</td>
+    <td>AWS</td>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>CSS</td>
+    <td>MySQL</td>
+    <td>WordPress</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Javascript</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Java</td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
 
