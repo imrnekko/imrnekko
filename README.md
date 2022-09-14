@@ -1,4 +1,4 @@
-#Hi, I am Imran Suhaimi!
+<h1>Hi, I am Imran Suhaimi!</h1>
 
 - 👋 Hi, I'm @imrnekko, a Universiti Teknologi MARA undergrad currently employed as an IT executive at Ardent Educational Consultants.
 - 👀 I’m interested in web, games and mobile app development, but still wish to explore many fields such as machine learning, data science.
