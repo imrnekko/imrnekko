@@ -39,6 +39,21 @@ Table below here are my tech stack for web development :
     <td></td>
   </tr>
 </table>
+<br>
+Table below here are my tech stack for mobile app development : 
+<table>
+  <tr>
+    <th>Frontend</th>
+    <th>Backend</th>
+    <th>Framework</th>
+  </tr>
+  <tr>
+    <td>Dart</td>
+    <td>Firebase</td>
+    <td>Flutter</td>
+  </tr>
+
+</table>
 
 <!---
 imrnekko/imrnekko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
