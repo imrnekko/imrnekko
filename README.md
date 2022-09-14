@@ -28,13 +28,13 @@ Table below here are my tech stack for web development :
   </tr>
   <tr>
     <td>Javascript</td>
-    <td></td>
+    <td>Java</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>JQuery</td>
-    <td>Java</td>
+    <td></td>
     <td></td>
     <td></td>
   </tr>
