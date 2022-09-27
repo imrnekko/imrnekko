@@ -29,7 +29,7 @@ My tech stack for web development :
   <tr>
     <td>Javascript</td>
     <td>Java</td>
-    <td>Joomla</td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
