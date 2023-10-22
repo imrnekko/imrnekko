@@ -33,7 +33,7 @@ My tech stack for web development :
     <td></td>
   </tr>
   <tr>
-    <td>JQuery</td>
+    <td>Vue.js</td>
     <td></td>
     <td></td>
     <td></td>
