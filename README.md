@@ -27,15 +27,18 @@ My tech stack for web development :
     <td>MySQL</td>
     <td></td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>Javascript</td>
     <td>Java</td>
     <td></td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>Vue.js</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
