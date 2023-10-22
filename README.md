@@ -6,7 +6,7 @@
 <!---- 💞️ I’m looking to collaborate on ...--->
 - 📫 How to reach me just contact me by email : imrnsuhaimi@gmail.com
 <br>
-My tech stack for web development : 
+My tech stack for web/system development : 
 <table>
   <tr>
     <th>Frontend</th>
