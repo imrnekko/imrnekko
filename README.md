@@ -9,7 +9,6 @@
 My tech stack for web development : 
 <table>
   <tr>
-    
     <th>Frontend</th>
     <th>Backend</th>
     <th>Framework</th>
