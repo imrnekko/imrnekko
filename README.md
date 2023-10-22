@@ -11,21 +11,21 @@ My tech stack for web development :
   <tr>
     <th>Frontend</th>
     <th>Backend</th>
-    <th>Framework</th>
+    <th>Database</th>
     <th>Web CMS</th>
     <th>Server-Related</th>
   </tr>
   <tr>
     <td>HTML</td>
     <td>PHP</td>
-    <td>Laravel</td>
+    <td>MySQL</td>
     <th>WordPress</th>
     <td>AWS</td>
   </tr>
   <tr>
     <td>CSS</td>
     <td>MySQL</td>
-    <td></td>
+    <td>Firebase</td>
     <td></td>
     <td></td>
   </tr>
@@ -38,7 +38,7 @@ My tech stack for web development :
   </tr>
   <tr>
     <td>Vue.js</td>
-    <td></td>
+    <td>Laravel</td>
     <td></td>
     <td></td>
     <td></td>
@@ -49,7 +49,7 @@ My tech stack for mobile app development :
 <table>
   <tr>
     <th>Frontend</th>
-    <th>Backend</th>
+    <th>Database</th>
     <th>Framework</th>
   </tr>
   <tr>
