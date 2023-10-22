@@ -48,7 +48,7 @@ My tech stack for web development :
 My tech stack for mobile app development : 
 <table>
   <tr>
-    <th>Frontend</th>
+    <th>Language</th>
     <th>Database</th>
     <th>Framework</th>
   </tr>
@@ -56,6 +56,11 @@ My tech stack for mobile app development :
     <td>Dart</td>
     <td>Firebase</td>
     <td>Flutter</td>
+  </tr>
+  <tr>
+    <td>Java</td>
+    <td></td>
+    <td>Android Native</td>
   </tr>
 
 </table>
