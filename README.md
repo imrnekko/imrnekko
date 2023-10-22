@@ -25,7 +25,7 @@ My tech stack for web development :
   <tr>
     <td>CSS</td>
     <td>MySQL</td>
-    <td>Firebase</td>
+    <td></td>
     <td></td>
     <td></td>
   </tr>
