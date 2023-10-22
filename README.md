@@ -49,18 +49,21 @@ My tech stack for mobile app development :
 <table>
   <tr>
     <th>Language</th>
+    <th>IDE</th>
     <th>Database</th>
     <th>Framework</th>
   </tr>
   <tr>
     <td>Dart</td>
+    <td>Android Studio</td>
     <td>Firebase</td>
     <td>Flutter</td>
   </tr>
   <tr>
     <td>Java</td>
     <td></td>
-    <td>Android Native</td>
+    <td></td>
+    <td></td>
   </tr>
 
 </table>
