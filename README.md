@@ -9,21 +9,24 @@
 My tech stack for web development : 
 <table>
   <tr>
+    
     <th>Frontend</th>
     <th>Backend</th>
     <th>Framework</th>
+    <th>Web CMS</th>
     <th>Server-Related</th>
   </tr>
   <tr>
     <td>HTML</td>
     <td>PHP</td>
     <td>Laravel</td>
+    <th>WordPress</th>
     <td>AWS</td>
   </tr>
   <tr>
     <td>CSS</td>
     <td>MySQL</td>
-    <td>WordPress</td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
