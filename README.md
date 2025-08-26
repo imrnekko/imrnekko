@@ -60,17 +60,14 @@ IT professional with expertise in full-stack development and team leadership. Pa
 
 ## 🌟 Featured Projects
 
-### 🎓 Educational Platforms
-- **EduManage Pro** - Comprehensive LMS for educational institutions
-- **StudentTracker** - Real-time student performance monitoring system
-
 ### 📱 Mobile Applications
-- **CampusConnect** - University social network built with Flutter
-- **EduResources** - Learning resource sharing platform
+- **ViRata** - Virtual Shopping Assistant for Dyscalculia, built with Flutter
 
 ### 🌐 Web Systems
-- **ConsultantHub** - CRM system for educational consultants
-- **AdmissionPortal** - Streamlined student admission processing
+- **ContestHub** - Contest management system for educational competitions, built with Laravel
+- **ContestHub Events** - Event management system, built with Laravel
+- **Malaysian Jigsaw Puzzle** - Malaysian Jigsaw Puzzle system, built with Laravel
+- **KnowHub** - Course Learning Management SaaS, built with Laravel
 
 ---
 
@@ -78,6 +75,7 @@ IT professional with expertise in full-stack development and team leadership. Pa
 
 - **Advanced Cloud Architecture** (AWS Solutions Architect)
 - **Machine Learning Engineering** with Python
+- **N8N** Automation workflow
 - **Microservices Architecture** patterns
 - **Team Leadership** methodologies
 - **Project Management** frameworks (Agile, Scrum)
